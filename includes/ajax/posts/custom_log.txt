@@ -1,0 +1,53 @@
+Post Result: Array
+(
+    [user_id] => 2
+    [user_type] => user
+    [in_wall] => 0
+    [wall_id] => 
+    [in_group] => 0
+    [group_id] => 
+    [group_approved] => 0
+    [in_event] => 0
+    [event_id] => 
+    [event_approved] => 0
+    [author_id] => 2
+    [post_author_picture] => http://script.test:81//content/uploads/photos/2024/10/sngine_f2ffbb9da6c9d9f6d1f3c8eee37326ee_cropped.jpg
+    [post_author_url] => http://script.test:81//tamiopia
+    [post_author_name] => Tamagn Zewdu
+    [post_author_verified] => 0
+    [post_author_online] => 1
+    [pre_approved] => 1
+    [has_approved] => 1
+    [text] => thud hs jsj hs hsu 
+    [time] => 2024-10-27 19:41:41
+    [location] => 
+    [privacy] => public
+    [is_anonymous] => 0
+    [for_adult] => 0
+    [tips_enabled] => 0
+    [for_subscriptions] => 0
+    [is_paid] => 0
+    [post_price] => 
+    [paid_text] => 
+    [reaction_like_count] => 0
+    [reaction_love_count] => 0
+    [reaction_haha_count] => 0
+    [reaction_yay_count] => 0
+    [reaction_wow_count] => 0
+    [reaction_sad_count] => 0
+    [reaction_angry_count] => 0
+    [reactions_total_count] => 0
+    [comments] => 0
+    [shares] => 0
+    [views] => 0
+    [processing] => 0
+    [feeling_action] => 
+    [feeling_value] => 
+    [feeling_icon] => 
+    [colored_pattern] => 0
+    [post_type] => 
+    [post_id] => 103
+    [text_plain] => thud hs jsj hs hsu 
+    [manage_post] => 1
+)
+
